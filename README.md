@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jmmclaur
-- 👀 I’m interested in writing and drawing.
-- 🌱 I’m currently learning software engineering.
+- 👀 I’m interested in web development, writing and animation.
+- 🌱 I've gradutated TripleTen's Software Engineering program.
 - 💞️ I’m looking to collaborate on a future video game.
 - 📫 How to reach me mclaurinjessica3@gmail.com
 
